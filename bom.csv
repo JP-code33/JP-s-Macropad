@@ -1,9 +1,7 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #, Price
-"D1, D2, D3, D4, D5, D6",D_DO-35_SOD27_P7.62mm_Horizontal,6,1N4148, 0,
-J1,SSD1306-0.91-OLED-4pin-128x32,1,Conn_01x04, 0,
-"SW1, SW2, SW3, SW4, SW5, SW6",SW_Cherry_MX_1.00u_PCB,6,SW_Push 0, 
-SW7,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch, 0,
-U1,XIAO-Generic-Hybrid-14P-2.54-21X17.8MM,1,MOUDLE-SEEEDUINO-XIAO, 0,
-3D printed parts, none, 2, none, none, I have 3DP,
-
-
+Designator	Footprint	Quantity	Designation	Supplier and ref	cost
+1	D1, D2, D3, D4, D5, D6	D_DO-41_SOD81_P10.16mm_Horizontal	6	1N4001		0
+2	SW1, SW2, SW3, SW4, SW5, SW7	SW_Cherry_MX_1.00u_Plate	6	SW_Push		0
+3	SW6	RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles	1	RotaryEncoder_Switch_MP		0
+4	U1	MODULE_XIAO_ESP32C3	1	XIAO_ESP32C3		0
+5	U2	ER_OLEDM0.91_1x-I2C	1	ER_OLEDM0.91_1x-I2C		0
+total parts cost:	0 ( all included in the hackpad parts kit.)				
