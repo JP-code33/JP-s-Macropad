@@ -21,6 +21,7 @@ Working with PCB design. It was easy because the schematic was right. As I was r
 CAD was fairly easy as I mentioned it is made for CAD so I had prior experience in making it so easy for me to make a box. I added some triangles to add some design and added my name on it as a design. 
 
 <img width="557" height="447" alt="Screenshot 2026-10-21 174541" src="https://github.com/user-attachments/assets/ad169f6c-c618-4371-b74b-424b7107c56c" />
+<img width="398" height="426" alt="Screenshot 2026-10-24 093756" src="https://github.com/user-attachments/assets/1ba52fa1-fa48-4103-991c-232d33067965" />
 <img width="533" height="398" alt="Screenshot 2026-10-23 204203" src="https://github.com/user-attachments/assets/e31ee325-f9fa-4b13-bbbb-96efc747e805" />
 
 # Bill Of Materials (BOM)
