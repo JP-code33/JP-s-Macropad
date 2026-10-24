@@ -26,11 +26,17 @@ CAD was fairly easy as I mentioned it is made for CAD so I had prior experience 
 # Bill Of Materials (BOM)
 
 6x Cherry MX Switches
+
 6x Keycaps 
+
 1x EC11 Rotary Encoder
+
 1x Seeed XIAO RP20404
+
 4x M3x16mm screws
+
 6x Diodes
+
 1 case (2 parts)
 
 
