@@ -24,6 +24,18 @@ CAD was fairly easy as I mentioned it is made for CAD so I had prior experience 
 <img width="398" height="426" alt="Screenshot 2026-10-24 093756" src="https://github.com/user-attachments/assets/1ba52fa1-fa48-4103-991c-232d33067965" />
 <img width="533" height="398" alt="Screenshot 2026-10-23 204203" src="https://github.com/user-attachments/assets/e31ee325-f9fa-4b13-bbbb-96efc747e805" />
 
+# How to flash firmware
+
+What I have found the easiest way is to use QMK Toolbox, what I will do is connect the macropad to the computer and then load up the toolbox and load the files in toolbox. Then I will just use the inbuilt flash button to flash it to my macropad
+
+# Assembly
+
+I don't have the necessary parts yet but I waiting for them. I will be soldering the diodes and will do the wiring to connect everything up. I will then put it in the case and use the screws to tighten everything up. 
+
+# Why I made it
+
+I was wanted to buy a steamdeck which as I found those fascinating because you can program them and you could use it as whatever key you want but didn't really get a chance to buy and saw an opportunity to make my own so I decided to make one for CAD shortcuts!
+
 # Bill Of Materials (BOM)
 
 6x Cherry MX Switches
