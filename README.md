@@ -52,6 +52,10 @@ I was wanted to buy a steamdeck which as I found those fascinating because you c
 
 1 case (2 parts)
 
+1 PCB (JLCPCB only gives 5 so will have to buy the 5 pack)
+
+1 soldering iron
+
 
 
 
