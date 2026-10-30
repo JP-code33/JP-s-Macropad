@@ -4,4 +4,6 @@ Designator	Footprint	Quantity	Designation	Supplier and ref	cost
 3	SW6	RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles	1	RotaryEncoder_Switch_MP		0
 4	U1	MODULE_XIAO_ESP32C3	1	XIAO_ESP32C3		0
 5	U2	ER_OLEDM0.91_1x-I2C	1	ER_OLEDM0.91_1x-I2C		0
-total parts cost:	0 ( all included in the hackpad parts kit.)				
+6. PCB Quantity: 5(because that is what JCLPCB gives) Price:- $ 7.75 link:- https://cart.jlcpcb.com/shopcart/cart
+7. Soldering Iron Quantity: 1 Price: 12.99 link:- https://www.walmart.com/ip/DEXIMRO-Soldering-Iron-Kit-Electric-110V-Adjustable-Temperature-Soldering-Gun-Welding-Tools-5pcs-Replacement-Tips-and-Solder-Wire-Basic/16465161549?wmlspartner=wlpa&selectedSellerId=102734250&adid=2222222222716465161549_102734250_206227643904_24162030887&wl0=&wl1=g&wl2=c&wl3=821672913505&wl4=pla-293946777986&wl5=9003171&wl6=&wl7=&wl8=&wl9=pla&wl10=5578434742&wl11=online&wl12=16465161549_102734250&veh=sem&gad_source=1&gad_campaignid=24162030887&gbraid=0AAAABDAnf94NAgVmCdn2pJgGc87rXMXYW&gclid=CjwKCAjwgJHXBhBGEiwAHohJqyopaN5MBaZUvQdECL28kOs6o52VY9l5GxHkqxqrVHhJC63TU_CLBxoClugQAvD_BwE
+total parts cost:	7.75 ( all included in the hackpad parts kit.)				
