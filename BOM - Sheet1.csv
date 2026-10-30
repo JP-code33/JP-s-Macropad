@@ -1,0 +1,9 @@
+Designator,Footprint,Quantity,Designation,Supplier and ref,Cost,Link
+1,"D1, D2, D3, D4, D5, D6",D_DO-41_SOD81_P10.16mm_Horizontal,6,,,
+2,"SW1, SW2, SW3, SW4, SW5, SW7",SW_Cherry_MX_1.00u_Plate,6,,,
+3,SW6,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles,1,,,
+4,U1,MODULE_XIAO_ESP32C3,1,,,
+5,U2,ER_OLEDM0.91_1x-I2C,1,,,
+6,PCB,1,,PCB,$7.75,https://cart.jlcpcb.com/shopcart/cart
+7,Soldering Iron,1,,Walmart,$12.99, https://www.walmart.com/ip/DEXIMRO-Soldering-Iron-Kit-Electric-110V-Adjustable-Temperature-Soldering-Gun-Welding-Tools-5pcs-Replacement-Tips-and-Solder-Wire-Basic/16465161549?wmlspartner=wlpa&selectedSellerId=102734250&adid=2222222222716465161549_102734250_206227643904_24162030887&wl0=&wl1=g&wl2=c&wl3=821672913505&wl4=pla-293946777986&wl5=9003171&wl6=&wl7=&wl8=&wl9=pla&wl10=5578434742&wl11=online&wl12=16465161549_102734250&veh=sem&gad_source=1&gad_campaignid=24162030887&gbraid=0AAAABDAnf94NAgVmCdn2pJgGc87rXMXYW&gclid=CjwKCAjwgJHXBhBGEiwAHohJqyopaN5MBaZUvQdECL28kOs6o52VY9l5GxHkqxqrVHhJC63TU_CLBxoClugQAvD_BwE
+total parts cost:,20.74 (HackPad kit is free),,,,,
