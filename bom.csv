@@ -1,4 +1,4 @@
-Designator	Footprint	Quantity	Designation	Supplier and ref	cost link
+Designator	Footprint	Quantity	Designation	Supplier and ref	cost   link
 1	D1, D2, D3, D4, D5, D6	D_DO-41_SOD81_P10.16mm_Horizontal	6	1N4001		0
 2	SW1, SW2, SW3, SW4, SW5, SW7	SW_Cherry_MX_1.00u_Plate	6	SW_Push		0
 3	SW6	RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles	1	RotaryEncoder_Switch_MP		0
